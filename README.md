@@ -14,6 +14,7 @@ Inside of your Astro project, you'll see the following folders and files:
 /
 ├── public/
 │   └── favicon.svg
+|   └── Video.mp4
 ├── src
 │   ├── assets
 │   │   └── astro.svg
@@ -22,6 +23,7 @@ Inside of your Astro project, you'll see the following folders and files:
 |   |   ├── Footer.astro
 |   |   ├── Header.astro
 |   |   ├── Intro.astro
+|   |   ├── Logo.astro
 |   |   ├── PreFooter.astro
 |   |   ├── Video.astro
 │   ├── layouts
